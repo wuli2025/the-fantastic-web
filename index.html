@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="description" content="Local study of the Igloo Inc. interactive WebGL experience." />
+    <meta name="robots" content="noindex, nofollow" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon32-af94112f.png" />
+    <title>Igloo Inc. — Local Study</title>
+    <style>
+      html, body { margin: 0; width: 100%; height: 100%; background: #a2a7b0; }
+      #load-error { position: fixed; z-index: 9999; inset: 0; display: grid; place-content: center; padding: 32px; background: #272d36; color: #fff; font: 16px/1.8 system-ui, sans-serif; }
+      #load-error[hidden] { display: none; }
+      #load-error h1 { font-size: 24px; }
+      #load-error p { max-width: 38em; }
+      #load-error button, #load-error a { display: inline-block; padding: 10px 20px; margin: 8px 8px 0 0; border: 1px solid #b5bcc6; background: transparent; color: #fff; font: inherit; text-decoration: none; cursor: pointer; }
+      #load-error button:focus-visible, #load-error a:focus-visible { outline: 3px solid #fff; outline-offset: 4px; }
+    </style>
+    <script type="module" src="/src/igloo/main.js"></script>
+  </head>
+  <body>
+    <section id="load-error" role="alert" lang="zh-CN" hidden>
+      <div>
+        <h1>场景暂时无法加载</h1>
+        <p id="load-error-message"></p>
+        <button id="reload" type="button">重新加载</button>
+        <a href="/forma.html">打开人物粒子实验</a>
+      </div>
+    </section>
+    <noscript>Enable JavaScript to view this interactive WebGL experience.</noscript>
+  </body>
+</html>

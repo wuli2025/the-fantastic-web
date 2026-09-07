@@ -1,0 +1,672 @@
+{
+  "source": "https://www.igloo.inc/",
+  "description": "Public production assets observed in the original site. This is not an official source-code release.",
+  "assets": [
+    {
+      "path": "assets/App3D-f554a111.js",
+      "url": "https://www.igloo.inc/assets/App3D-f554a111.js",
+      "bytes": 1487415,
+      "sha256": "54e3068a859b5b027d55e474b7ccf5aadf8df071e27689b3cfac073ad62cca48"
+    },
+    {
+      "path": "assets/IBMPlexMono-Medium-1e253194.woff",
+      "url": "https://www.igloo.inc/assets/IBMPlexMono-Medium-1e253194.woff",
+      "bytes": 57556,
+      "sha256": "1e253194f68fd8abd94a2540a5612721e1e72aea9deb0aa242f185720fe4f17d"
+    },
+    {
+      "path": "assets/IBMPlexMono-Medium-897c8c30.woff2",
+      "url": "https://www.igloo.inc/assets/IBMPlexMono-Medium-897c8c30.woff2",
+      "bytes": 39936,
+      "sha256": "897c8c30f1933ce0989c597182fb4c3330781678fa980bdd4c21c0ef2fc5f1bc"
+    },
+    {
+      "path": "assets/IBMPlexMono-Regular-419d45f6.woff",
+      "url": "https://www.igloo.inc/assets/IBMPlexMono-Regular-419d45f6.woff",
+      "bytes": 56500,
+      "sha256": "419d45f65623ba5c142d8e2bfcf9557dd5983333e51ed7f5d384aaa112f019d4"
+    },
+    {
+      "path": "assets/IBMPlexMono-Regular-d3034935.woff2",
+      "url": "https://www.igloo.inc/assets/IBMPlexMono-Regular-d3034935.woff2",
+      "bytes": 39068,
+      "sha256": "d3034935528bfba6902d4907de6f2bca22a1528c382f1207a6b33ca790b9701a"
+    },
+    {
+      "path": "assets/audio/beeps.ogg",
+      "url": "https://www.igloo.inc/assets/audio/beeps.ogg",
+      "bytes": 9765,
+      "sha256": "77d2b637779c66de7feaffde8ea7b48c9150e865b09229a31d6ee2e60520d6d5"
+    },
+    {
+      "path": "assets/audio/beeps2.ogg",
+      "url": "https://www.igloo.inc/assets/audio/beeps2.ogg",
+      "bytes": 10254,
+      "sha256": "d2cacb8bac34f79acb5fcdfbe86b278a74d22a69317a2d21f55c336ce5120680"
+    },
+    {
+      "path": "assets/audio/beeps3.ogg",
+      "url": "https://www.igloo.inc/assets/audio/beeps3.ogg",
+      "bytes": 10117,
+      "sha256": "1d004c3c5f3ff06058f97a8d762c96115ceaae3d9ef17927b3f6f35d9ac4b839"
+    },
+    {
+      "path": "assets/audio/circles.ogg",
+      "url": "https://www.igloo.inc/assets/audio/circles.ogg",
+      "bytes": 28454,
+      "sha256": "a9ffb5d8ba6aa65d39716571f2b6f928369e14bdc11559f3639e6d95d19bc23a"
+    },
+    {
+      "path": "assets/audio/click-project.ogg",
+      "url": "https://www.igloo.inc/assets/audio/click-project.ogg",
+      "bytes": 6753,
+      "sha256": "aa8176894faee9858ace213e87e92ff45f6a30d71a865e8e5a4da26d2d905570"
+    },
+    {
+      "path": "assets/audio/enter-project.ogg",
+      "url": "https://www.igloo.inc/assets/audio/enter-project.ogg",
+      "bytes": 21582,
+      "sha256": "0b0771bb930d0e8f1fca6174b7ad3a025ca9c72ae60c660af47e6a800e24ebfa"
+    },
+    {
+      "path": "assets/audio/igloo.ogg",
+      "url": "https://www.igloo.inc/assets/audio/igloo.ogg",
+      "bytes": 62478,
+      "sha256": "c197e17cdb8d6502a6c0a36c98ec96e8efa19b71988128dd839399bc05f68418"
+    },
+    {
+      "path": "assets/audio/leave-project.ogg",
+      "url": "https://www.igloo.inc/assets/audio/leave-project.ogg",
+      "bytes": 11909,
+      "sha256": "3db3997ad525bb360720f02ea4734e6ebb62d22fd9d2afb6a72f7383669b84b2"
+    },
+    {
+      "path": "assets/audio/logo.ogg",
+      "url": "https://www.igloo.inc/assets/audio/logo.ogg",
+      "bytes": 4855,
+      "sha256": "a95372df8ff0519ca2369d2d39222941d87ce957fd0ae33fce077466c75ef1f9"
+    },
+    {
+      "path": "assets/audio/manifesto.ogg",
+      "url": "https://www.igloo.inc/assets/audio/manifesto.ogg",
+      "bytes": 6163,
+      "sha256": "f02fe7e4d039047b5ee1ac5c5c3f9621fd773730d52b373fca3d649942ea1eff"
+    },
+    {
+      "path": "assets/audio/music-highq.ogg",
+      "url": "https://www.igloo.inc/assets/audio/music-highq.ogg",
+      "bytes": 1527578,
+      "sha256": "a4638cc8eb0bed6c98e3b119fcf6396d4eb718a0b7853b3e58eaed75a5a4d2b1"
+    },
+    {
+      "path": "assets/audio/particles.ogg",
+      "url": "https://www.igloo.inc/assets/audio/particles.ogg",
+      "bytes": 16799,
+      "sha256": "9c155073e7226ed9fa67e5a0eea309291e087c88c52b7bbe2b591272eb554412"
+    },
+    {
+      "path": "assets/audio/project-text.ogg",
+      "url": "https://www.igloo.inc/assets/audio/project-text.ogg",
+      "bytes": 11037,
+      "sha256": "9bde481298bde6325cab4fdc9594b2aea71b72353de7137d779da446c5fb02ff"
+    },
+    {
+      "path": "assets/audio/room.ogg",
+      "url": "https://www.igloo.inc/assets/audio/room.ogg",
+      "bytes": 609688,
+      "sha256": "06bc151a7b06735eaaf886156be377359ac976851eb662b75d65ba8c1a483ec1"
+    },
+    {
+      "path": "assets/audio/shard.ogg",
+      "url": "https://www.igloo.inc/assets/audio/shard.ogg",
+      "bytes": 21753,
+      "sha256": "95919ee3e8cbde749e5afd80673d6a6a4cf904b3f4f986ba1b3d530772db7044"
+    },
+    {
+      "path": "assets/audio/ui-long.ogg",
+      "url": "https://www.igloo.inc/assets/audio/ui-long.ogg",
+      "bytes": 4453,
+      "sha256": "e72dc72fdf79388ce93739cc0d7bea847c38f7dc320b6467c0fb52cecbebff38"
+    },
+    {
+      "path": "assets/audio/ui-short.ogg",
+      "url": "https://www.igloo.inc/assets/audio/ui-short.ogg",
+      "bytes": 3021,
+      "sha256": "f641931a1698d17e63704356341466042a30eef78e5d0c901cf026edb46dd1a3"
+    },
+    {
+      "path": "assets/audio/wind.ogg",
+      "url": "https://www.igloo.inc/assets/audio/wind.ogg",
+      "bytes": 572916,
+      "sha256": "478786ec448b99d4b6751adf8c105954f04612ef70a3c8624c8a6a36c1866d16"
+    },
+    {
+      "path": "assets/audioworker-036a09db.js",
+      "url": "https://www.igloo.inc/assets/audioworker-036a09db.js",
+      "bytes": 116311,
+      "sha256": "c56952955111dd8af5d2b10bea2cc2cda131272d54b524bc1c54eb46b0fa3d9d"
+    },
+    {
+      "path": "assets/bitmapworker-046527f8.js",
+      "url": "https://www.igloo.inc/assets/bitmapworker-046527f8.js",
+      "bytes": 2948,
+      "sha256": "900fd0f9c549420ff08947d54b37e7880dae20e4dfe8a02e574fd19b23836ae2"
+    },
+    {
+      "path": "assets/exrworker-41cbee65.js",
+      "url": "https://www.igloo.inc/assets/exrworker-41cbee65.js",
+      "bytes": 83463,
+      "sha256": "4842b67bc261ad6c43d99df431919cc7bd39df0eb8af58562cb637c1ba827ffc"
+    },
+    {
+      "path": "assets/favicon16-9e4401be.png",
+      "url": "https://www.igloo.inc/assets/favicon16-9e4401be.png",
+      "bytes": 513,
+      "sha256": "9e4401be6c2b882cb66fe17db943257bb81391f767294e18da9f7ceafb2f2310"
+    },
+    {
+      "path": "assets/favicon32-af94112f.png",
+      "url": "https://www.igloo.inc/assets/favicon32-af94112f.png",
+      "bytes": 1245,
+      "sha256": "af94112fc5434cf459408199a16496ba22fb5cbb4abe9846c07c4bceb5d53af6"
+    },
+    {
+      "path": "assets/fonts/IBMPlexMono-Medium-datatexture.ktx2",
+      "url": "https://www.igloo.inc/assets/fonts/IBMPlexMono-Medium-datatexture.ktx2",
+      "bytes": 110330,
+      "sha256": "71d8db12ae7ec143d690f74ea7c6d797b31a95622d099c199b70ef925f813369"
+    },
+    {
+      "path": "assets/fonts/IBMPlexMono-Medium.json",
+      "url": "https://www.igloo.inc/assets/fonts/IBMPlexMono-Medium.json",
+      "bytes": 24308,
+      "sha256": "607b4cc1d061869a047383a945b82dd84cfa4f047426c4e03fd2f15091c70474"
+    },
+    {
+      "path": "assets/geometries/abstractlogo.drc",
+      "url": "https://www.igloo.inc/assets/geometries/abstractlogo.drc",
+      "bytes": 6860,
+      "sha256": "01e43738edeed823d6c2cd2b37b8ed1f1a978a0f4cc914324c884df9064b2c19"
+    },
+    {
+      "path": "assets/geometries/blurrytext.drc",
+      "url": "https://www.igloo.inc/assets/geometries/blurrytext.drc",
+      "bytes": 1187,
+      "sha256": "db9a2318be49cafa4e4026a88870c0f7a20a3996cc88ca7f7ba8714a1f294277"
+    },
+    {
+      "path": "assets/geometries/blurrytext_cylinder.drc",
+      "url": "https://www.igloo.inc/assets/geometries/blurrytext_cylinder.drc",
+      "bytes": 5571,
+      "sha256": "d6c0008ef783d1a438023adfd62ab1f3cb75fd3c4ae5a10fed80de65e7a33a3e"
+    },
+    {
+      "path": "assets/geometries/ceilingsmoke.drc",
+      "url": "https://www.igloo.inc/assets/geometries/ceilingsmoke.drc",
+      "bytes": 13717,
+      "sha256": "f4374ec7b8f13c63171c99e56746892bfa09260141134cc5ed3fbea49dd77b94"
+    },
+    {
+      "path": "assets/geometries/cubes/background_shapes.drc",
+      "url": "https://www.igloo.inc/assets/geometries/cubes/background_shapes.drc",
+      "bytes": 669,
+      "sha256": "490fcb84de97d60a9c977c55dd01177121e0547be2f949601abf1cb1b3dfbb35"
+    },
+    {
+      "path": "assets/geometries/cubes/cube1.drc",
+      "url": "https://www.igloo.inc/assets/geometries/cubes/cube1.drc",
+      "bytes": 28025,
+      "sha256": "42a923a280a3d5ebcbe1404fe18c046c8c74030da9158c29477187abc13fbb6f"
+    },
+    {
+      "path": "assets/geometries/cubes/cube2.drc",
+      "url": "https://www.igloo.inc/assets/geometries/cubes/cube2.drc",
+      "bytes": 29217,
+      "sha256": "e4653e8d2a2da42c5a3a40d46f5846fb90cb60918287eb0812c53961f13f11b3"
+    },
+    {
+      "path": "assets/geometries/cubes/cube3.drc",
+      "url": "https://www.igloo.inc/assets/geometries/cubes/cube3.drc",
+      "bytes": 40339,
+      "sha256": "2825919628b94ec31b401b0c0e83cadad0d95343b33b8abf0a76f050516fa816"
+    },
+    {
+      "path": "assets/geometries/floor.drc",
+      "url": "https://www.igloo.inc/assets/geometries/floor.drc",
+      "bytes": 40738,
+      "sha256": "6f502d2d68680590f2b92594c74c670c7f4802f46cc3f564125215a66cacb9ad"
+    },
+    {
+      "path": "assets/geometries/ground.drc",
+      "url": "https://www.igloo.inc/assets/geometries/ground.drc",
+      "bytes": 18861,
+      "sha256": "aac98a1cc006a7ac33b245a963a17d7aa86a0664dc0b73d860fd047a056247f7"
+    },
+    {
+      "path": "assets/geometries/igloo.drc",
+      "url": "https://www.igloo.inc/assets/geometries/igloo.drc",
+      "bytes": 222834,
+      "sha256": "ec225346c9abf9f82cbd703892b7f890f6b6f897777c2826c143d4d242a16956"
+    },
+    {
+      "path": "assets/geometries/igloo/igloo_cage.drc",
+      "url": "https://www.igloo.inc/assets/geometries/igloo/igloo_cage.drc",
+      "bytes": 5732,
+      "sha256": "f10a57dd5db7e96f6d9783710e29a2b56cf6e6e77278681693f196aea587901e"
+    },
+    {
+      "path": "assets/geometries/igloo/igloo_outline.drc",
+      "url": "https://www.igloo.inc/assets/geometries/igloo/igloo_outline.drc",
+      "bytes": 20334,
+      "sha256": "4a94c95d69303ff7e59153f3da0ae1a6a11dfbacd888c66696b992423b942645"
+    },
+    {
+      "path": "assets/geometries/igloo/patch.drc",
+      "url": "https://www.igloo.inc/assets/geometries/igloo/patch.drc",
+      "bytes": 240,
+      "sha256": "5163022aad65b6d3aead4b837d3cb66feb172a5206221004cc7fb61f64ac53ae"
+    },
+    {
+      "path": "assets/geometries/intro_particles.drc",
+      "url": "https://www.igloo.inc/assets/geometries/intro_particles.drc",
+      "bytes": 2069,
+      "sha256": "3bbfafee6007980b6bc44153f1c7cbfc37ea9da86878ffc13447157d339557fe"
+    },
+    {
+      "path": "assets/geometries/mountain.drc",
+      "url": "https://www.igloo.inc/assets/geometries/mountain.drc",
+      "bytes": 11846,
+      "sha256": "cd14edcb22a7453631ed17de5d8ca1b4d82902011201e1989466b1fb766c9c45"
+    },
+    {
+      "path": "assets/geometries/overpass_logo.drc",
+      "url": "https://www.igloo.inc/assets/geometries/overpass_logo.drc",
+      "bytes": 14534,
+      "sha256": "5d0034bc8e8f8f4f6a8968d7bae4ad5fcee54d6be9e5e9ee098e73f27ab19bd6"
+    },
+    {
+      "path": "assets/geometries/pudgy.drc",
+      "url": "https://www.igloo.inc/assets/geometries/pudgy.drc",
+      "bytes": 30606,
+      "sha256": "f5ff13acca09659818774beece5af5e775769a719bfce40cb96564aaec4ed422"
+    },
+    {
+      "path": "assets/geometries/shattered_ring.drc",
+      "url": "https://www.igloo.inc/assets/geometries/shattered_ring.drc",
+      "bytes": 40703,
+      "sha256": "a217037b8a5ceb70bec76d6907f30efc59b97472d7a8fd6e6ec8d54afc7a841b"
+    },
+    {
+      "path": "assets/geometries/shattered_ring2.drc",
+      "url": "https://www.igloo.inc/assets/geometries/shattered_ring2.drc",
+      "bytes": 43550,
+      "sha256": "d900917ed95b4f610d1b7c52479b52a5a4266134d9382ca8d20da88304b407f9"
+    },
+    {
+      "path": "assets/geometries/shattered_ring_smoke.drc",
+      "url": "https://www.igloo.inc/assets/geometries/shattered_ring_smoke.drc",
+      "bytes": 10263,
+      "sha256": "b178154cdd0f3079e29219717553848cebeaf3139159f694aba144ef96dfa1bb"
+    },
+    {
+      "path": "assets/geometries/smoke_trail.drc",
+      "url": "https://www.igloo.inc/assets/geometries/smoke_trail.drc",
+      "bytes": 4126,
+      "sha256": "b59e3d2d916d9c43573f0b15649935b47f5117303c36ac453b6ca9861958c2eb"
+    },
+    {
+      "path": "assets/images/abstractlogo_dark_color.ktx2",
+      "url": "https://www.igloo.inc/assets/images/abstractlogo_dark_color.ktx2",
+      "bytes": 172879,
+      "sha256": "3a5304a939979a4e4e9be6395408f079ebaf0ea8765d57be47013aa4e4c004d2"
+    },
+    {
+      "path": "assets/images/bokeh.ktx2",
+      "url": "https://www.igloo.inc/assets/images/bokeh.ktx2",
+      "bytes": 21582,
+      "sha256": "65a175d769e869ebd47a93ff3470c24e3dc36b463199c3598ad8c33298080f74"
+    },
+    {
+      "path": "assets/images/caustics.ktx2",
+      "url": "https://www.igloo.inc/assets/images/caustics.ktx2",
+      "bytes": 2419,
+      "sha256": "5baaaa04afbf70d1dc4e8b17982c43c8625fa772f8aa4e06f59bd84528c3534f"
+    },
+    {
+      "path": "assets/images/clouds_noise.ktx2",
+      "url": "https://www.igloo.inc/assets/images/clouds_noise.ktx2",
+      "bytes": 25373,
+      "sha256": "b2aab656bca762f54f579206a4dce7b573b1c1f38ca2a052f1b36df08b3313c0"
+    },
+    {
+      "path": "assets/images/cubes/abstractlogo_color.ktx2",
+      "url": "https://www.igloo.inc/assets/images/cubes/abstractlogo_color.ktx2",
+      "bytes": 205745,
+      "sha256": "fed27d5bcafecc474e7d095517e786d9dabf9d4ddd3910b0b60aa42e5daea37d"
+    },
+    {
+      "path": "assets/images/cubes/advect.png",
+      "url": "https://www.igloo.inc/assets/images/cubes/advect.png",
+      "bytes": 27467,
+      "sha256": "fd7ac81643e649ebd290ffd5397a697cc9cd4964fed1e08d49643722a9d69e32"
+    },
+    {
+      "path": "assets/images/cubes/bg.png",
+      "url": "https://www.igloo.inc/assets/images/cubes/bg.png",
+      "bytes": 1803,
+      "sha256": "4b26ae2ec283953a5c5c1d1121eb762f08c90cfb8fa9a38141f745bda8a3b4e6"
+    },
+    {
+      "path": "assets/images/cubes/blurrytext_atlas.ktx2",
+      "url": "https://www.igloo.inc/assets/images/cubes/blurrytext_atlas.ktx2",
+      "bytes": 7781,
+      "sha256": "f7712991528163f5309da0977a7ab9254615eb8078b5a97f72086833748fe795"
+    },
+    {
+      "path": "assets/images/cubes/cube1_normal.ktx2",
+      "url": "https://www.igloo.inc/assets/images/cubes/cube1_normal.ktx2",
+      "bytes": 1077177,
+      "sha256": "a2c584d43ca54367980ac3eea8099fa97cae3d47e5a781919223719fc85cc602"
+    },
+    {
+      "path": "assets/images/cubes/cube1_roughness.ktx2",
+      "url": "https://www.igloo.inc/assets/images/cubes/cube1_roughness.ktx2",
+      "bytes": 236683,
+      "sha256": "2fb81ab9b9fed7aba3e402d475e81a5239676c0bcdad704b5bb0c93d7a909fed"
+    },
+    {
+      "path": "assets/images/cubes/cube2_normal.ktx2",
+      "url": "https://www.igloo.inc/assets/images/cubes/cube2_normal.ktx2",
+      "bytes": 1076756,
+      "sha256": "da4ef27c1d5533a661d5cedceef6756bf224f2ee0383edd9bac06066c9d218ca"
+    },
+    {
+      "path": "assets/images/cubes/cube2_roughness.ktx2",
+      "url": "https://www.igloo.inc/assets/images/cubes/cube2_roughness.ktx2",
+      "bytes": 248138,
+      "sha256": "1f7807e86a8fae25d1bdf6a5e16ddfcd77d864360a956b75240986ac422ba70a"
+    },
+    {
+      "path": "assets/images/cubes/cube3_normal.ktx2",
+      "url": "https://www.igloo.inc/assets/images/cubes/cube3_normal.ktx2",
+      "bytes": 1134430,
+      "sha256": "c06a7116db4da8855b843105f889af243996a23d08120d446d320191502dc9cc"
+    },
+    {
+      "path": "assets/images/cubes/cube3_roughness.ktx2",
+      "url": "https://www.igloo.inc/assets/images/cubes/cube3_roughness.ktx2",
+      "bytes": 240240,
+      "sha256": "93818c20038bf486a355098a83354b36f693fbb358d9956f6815c394026e9142"
+    },
+    {
+      "path": "assets/images/cubes/cube_scene.ktx2",
+      "url": "https://www.igloo.inc/assets/images/cubes/cube_scene.ktx2",
+      "bytes": 41384,
+      "sha256": "367b8ae0617dab69824d4cf33e63073c270f40ade085edd1ac7c88e1cd931e74"
+    },
+    {
+      "path": "assets/images/cubes/dot_pattern.ktx2",
+      "url": "https://www.igloo.inc/assets/images/cubes/dot_pattern.ktx2",
+      "bytes": 725,
+      "sha256": "ceefc252c51ac248756ee6d310f4cfc4f9c6d6f9adcd54ffff8ecb4882fd91a2"
+    },
+    {
+      "path": "assets/images/cubes/overpass_logo_color.ktx2",
+      "url": "https://www.igloo.inc/assets/images/cubes/overpass_logo_color.ktx2",
+      "bytes": 233248,
+      "sha256": "e02fb912d58afb3680dbc5be95e534cefe2362a059e65ad829e0f3f1abb873ac"
+    },
+    {
+      "path": "assets/images/cubes/pudgy_color.ktx2",
+      "url": "https://www.igloo.inc/assets/images/cubes/pudgy_color.ktx2",
+      "bytes": 183042,
+      "sha256": "c0eae23888aa71e274437bcd411f25b8c3a9be98be8b3c007f063d3f7999c7cc"
+    },
+    {
+      "path": "assets/images/cubes_env.exr",
+      "url": "https://www.igloo.inc/assets/images/cubes_env.exr",
+      "bytes": 259130,
+      "sha256": "dc09ca4a9e365f44f54a6dcd503a680c6dc0aa3ef39cfaee515a96e6140b5e0e"
+    },
+    {
+      "path": "assets/images/floor_color.ktx2",
+      "url": "https://www.igloo.inc/assets/images/floor_color.ktx2",
+      "bytes": 629652,
+      "sha256": "9d515988a00f119348ca723054fba7ba4fa10e14ab3b13ca6ab19f1c40778d5e"
+    },
+    {
+      "path": "assets/images/frost-datatexture.ktx2",
+      "url": "https://www.igloo.inc/assets/images/frost-datatexture.ktx2",
+      "bytes": 134781,
+      "sha256": "eba0d24b548786904d5f5d380720d896b2081a1256ecfa635cc24c5818d303c4"
+    },
+    {
+      "path": "assets/images/igloo/ground_color.ktx2",
+      "url": "https://www.igloo.inc/assets/images/igloo/ground_color.ktx2",
+      "bytes": 625325,
+      "sha256": "810dcf5e7f2ea194c149efbbeb0e1bce4a55aec2a6bee24e2bf8fc201c391ac1"
+    },
+    {
+      "path": "assets/images/igloo/ground_glow.ktx2",
+      "url": "https://www.igloo.inc/assets/images/igloo/ground_glow.ktx2",
+      "bytes": 213732,
+      "sha256": "93d142993b56b67346b8c5b2bab25a0c8c06e9805485339a4fb6b60a1eec1d40"
+    },
+    {
+      "path": "assets/images/igloo/ground_sansigloo_color.ktx2",
+      "url": "https://www.igloo.inc/assets/images/igloo/ground_sansigloo_color.ktx2",
+      "bytes": 628793,
+      "sha256": "56dbac44ec5b55f31842ea913fbb08e8a56753cda7eed4942db76d54b7e4a216"
+    },
+    {
+      "path": "assets/images/igloo/igloo_color.ktx2",
+      "url": "https://www.igloo.inc/assets/images/igloo/igloo_color.ktx2",
+      "bytes": 533374,
+      "sha256": "fba0f68f753ec64f4412d0c88beec686f2ac9fdee5ca0eb936515faf6eba8307"
+    },
+    {
+      "path": "assets/images/igloo/igloo_exploded_color.ktx2",
+      "url": "https://www.igloo.inc/assets/images/igloo/igloo_exploded_color.ktx2",
+      "bytes": 842242,
+      "sha256": "dac2bf41c72e98dfb94d421fc8f6a1f378423f7d82ea9762e758c9a4ce2c594e"
+    },
+    {
+      "path": "assets/images/igloo/igloo_scene.ktx2",
+      "url": "https://www.igloo.inc/assets/images/igloo/igloo_scene.ktx2",
+      "bytes": 14484,
+      "sha256": "69af3267e3a083dc901486561aa7e11a5d39ee756d8c3369a3073b8a9b52665f"
+    },
+    {
+      "path": "assets/images/igloo/mountain_color.ktx2",
+      "url": "https://www.igloo.inc/assets/images/igloo/mountain_color.ktx2",
+      "bytes": 591988,
+      "sha256": "32f523d29a44e5a32aa75877ed4c172b8e5af283c29bfab2ca713e76450a35d6"
+    },
+    {
+      "path": "assets/images/igloo/numbers.ktx2",
+      "url": "https://www.igloo.inc/assets/images/igloo/numbers.ktx2",
+      "bytes": 4862,
+      "sha256": "08d72c64ae151c7161dab3d6d3fe7cd51cf97448088ba9ac4211226ec1bdc04c"
+    },
+    {
+      "path": "assets/images/igloo/triangles_tiling.ktx2",
+      "url": "https://www.igloo.inc/assets/images/igloo/triangles_tiling.ktx2",
+      "bytes": 47616,
+      "sha256": "e1127f77920367f47006ac7d8d5e64f6ab6adc7388ad9907f6c19a19f00bc6e9"
+    },
+    {
+      "path": "assets/images/mosaic.ktx2",
+      "url": "https://www.igloo.inc/assets/images/mosaic.ktx2",
+      "bytes": 1089,
+      "sha256": "2ca8fb4f570e02ddc55248f9deb1251d9a32088761e68f4c0d471466b4674713"
+    },
+    {
+      "path": "assets/images/noises/blue-8-128-rgb.ktx2",
+      "url": "https://www.igloo.inc/assets/images/noises/blue-8-128-rgb.ktx2",
+      "bytes": 50420,
+      "sha256": "b014a0eff7e1f8befa2d010fa52d774a49cf4e9f6551bfb5fce29472b0b43f15"
+    },
+    {
+      "path": "assets/images/numbers-datatexture.ktx2",
+      "url": "https://www.igloo.inc/assets/images/numbers-datatexture.ktx2",
+      "bytes": 13540,
+      "sha256": "cb7167c59d8ff8a4464ce08b04db19238dee2433b7adf3e4e8a9d88aab6b03f1"
+    },
+    {
+      "path": "assets/images/overpass_logo_dark_color.ktx2",
+      "url": "https://www.igloo.inc/assets/images/overpass_logo_dark_color.ktx2",
+      "bytes": 182030,
+      "sha256": "cb5a850cae0f9ed27ac7b9840e7896fe259de2dacd1884010d07faca52f3b088"
+    },
+    {
+      "path": "assets/images/perlin-datatexture.ktx2",
+      "url": "https://www.igloo.inc/assets/images/perlin-datatexture.ktx2",
+      "bytes": 3789,
+      "sha256": "f5e16cff7ecb17f301ac772e480214d5b43e17138bce78ff6d813a84a13fb826"
+    },
+    {
+      "path": "assets/images/perlin-datatexture.png",
+      "url": "https://www.igloo.inc/assets/images/perlin-datatexture.png",
+      "bytes": 3500,
+      "sha256": "28f6b031a85d8992d9cf0f00616010b95680f8947e56e7de223995e210fefd80"
+    },
+    {
+      "path": "assets/images/pudgy_dark_color.ktx2",
+      "url": "https://www.igloo.inc/assets/images/pudgy_dark_color.ktx2",
+      "bytes": 128889,
+      "sha256": "5021f019184c400d09890ce7be1c0400a1cc9a3c90458605d79819e75e3f0149"
+    },
+    {
+      "path": "assets/images/scroll-datatexture.ktx2",
+      "url": "https://www.igloo.inc/assets/images/scroll-datatexture.ktx2",
+      "bytes": 1286436,
+      "sha256": "1a1cc444f963ea92549626c1e44bb84eaf4c6d7e94e14e2697f543938f913db5"
+    },
+    {
+      "path": "assets/images/shapes_blurred.ktx2",
+      "url": "https://www.igloo.inc/assets/images/shapes_blurred.ktx2",
+      "bytes": 38936,
+      "sha256": "e023c87d57a2391480b4773cd9a7326ac54bab0b63572bc127e2ceb43a80eeb6"
+    },
+    {
+      "path": "assets/images/shattered_ring2_ao.ktx2",
+      "url": "https://www.igloo.inc/assets/images/shattered_ring2_ao.ktx2",
+      "bytes": 17943,
+      "sha256": "0fde7fc707a033ec350bf71d0368dfae34c59a39ab7d7ceb1678bbf6b871499a"
+    },
+    {
+      "path": "assets/images/shattered_ring2_color.ktx2",
+      "url": "https://www.igloo.inc/assets/images/shattered_ring2_color.ktx2",
+      "bytes": 228809,
+      "sha256": "d98e9adbc0d4b9ef25129789a0a7c88d39368df885c6486ad620c40ca69433ea"
+    },
+    {
+      "path": "assets/images/shattered_ring_ao.ktx2",
+      "url": "https://www.igloo.inc/assets/images/shattered_ring_ao.ktx2",
+      "bytes": 17010,
+      "sha256": "f4a3223b1a3a6c3bcf03ba9f30e7b4df5c9c0ed13d18b654f614acd9c24997e8"
+    },
+    {
+      "path": "assets/images/shattered_ring_color.ktx2",
+      "url": "https://www.igloo.inc/assets/images/shattered_ring_color.ktx2",
+      "bytes": 218729,
+      "sha256": "51ac41c64b6e237feede6a16a977edc07d05f6bb960005105972111917fd2e6f"
+    },
+    {
+      "path": "assets/images/social.jpg",
+      "url": "https://www.igloo.inc/assets/images/social.jpg",
+      "bytes": 88021,
+      "sha256": "5be860d2d985f330b0c12be08685f37a23114b077a0e067c37efb77b5d89654f"
+    },
+    {
+      "path": "assets/images/ui/arrow-datatexture.ktx2",
+      "url": "https://www.igloo.inc/assets/images/ui/arrow-datatexture.ktx2",
+      "bytes": 1574,
+      "sha256": "6960adfb5c6f8b673a6c7efc03281a490c6548974f1879564ff98f58fbc69068"
+    },
+    {
+      "path": "assets/images/ui/close-datatexture.ktx2",
+      "url": "https://www.igloo.inc/assets/images/ui/close-datatexture.ktx2",
+      "bytes": 826,
+      "sha256": "e6c4606817fa91d52fea04254f361551d99d99a9060bf2ec1d1169c3abd07226"
+    },
+    {
+      "path": "assets/images/ui/logo-datatexture.ktx2",
+      "url": "https://www.igloo.inc/assets/images/ui/logo-datatexture.ktx2",
+      "bytes": 2130,
+      "sha256": "c84a0960c8e769ca7c14c5e8d852b9353009dd140ecf76f117243bb9a2f3afec"
+    },
+    {
+      "path": "assets/images/ui/sound-datatexture.ktx2",
+      "url": "https://www.igloo.inc/assets/images/ui/sound-datatexture.ktx2",
+      "bytes": 4405,
+      "sha256": "2e8f2a1bdddc03ffac375144449cf824b1ea83d8178eecc657f710a3bb696cb2"
+    },
+    {
+      "path": "assets/images/ui/visit-datatexture.ktx2",
+      "url": "https://www.igloo.inc/assets/images/ui/visit-datatexture.ktx2",
+      "bytes": 844,
+      "sha256": "0dab9a0876d2bbdb03242fd656f42c7595585b46fe6c4e5ce735e9017e72eecf"
+    },
+    {
+      "path": "assets/images/volumes/medium_32.ktx2",
+      "url": "https://www.igloo.inc/assets/images/volumes/medium_32.ktx2",
+      "bytes": 45330,
+      "sha256": "cc7fe3d9fad037af6f655104378fd3bb10834c1435b4cdd0ced60e359a8a4ee6"
+    },
+    {
+      "path": "assets/images/volumes/peachesbody_64.ktx2",
+      "url": "https://www.igloo.inc/assets/images/volumes/peachesbody_64.ktx2",
+      "bytes": 836620,
+      "sha256": "e33fce0603e883ff5fa769ab17b56e24a847d77d2a8b3538ac644e954181c2fa"
+    },
+    {
+      "path": "assets/images/volumes/x_64.ktx2",
+      "url": "https://www.igloo.inc/assets/images/volumes/x_64.ktx2",
+      "bytes": 318476,
+      "sha256": "12734c27b1eb7e54cddf83250f3d592acf0784d2b795fc9093a2efd35ce92b5d"
+    },
+    {
+      "path": "assets/images/wind_noise.ktx2",
+      "url": "https://www.igloo.inc/assets/images/wind_noise.ktx2",
+      "bytes": 18158,
+      "sha256": "c4c6d024e3d7a15661ebabc188b7a92e69433bdf7cf029aaef7039e035e93d92"
+    },
+    {
+      "path": "assets/index-2eb69c09.js",
+      "url": "https://www.igloo.inc/assets/index-2eb69c09.js",
+      "bytes": 16546,
+      "sha256": "48e3373c58b7979ac48fd6bd49a710b43f1ac64ce60a0d4faf83761ba6aeea46"
+    },
+    {
+      "path": "assets/libs/basis/basis_transcoder.js",
+      "url": "https://www.igloo.inc/assets/libs/basis/basis_transcoder.js",
+      "bytes": 67059,
+      "sha256": "a7bb97ecab372f4ad63db3ae74fcfe5e436f0cce02646ec1d3c4feb8b898face"
+    },
+    {
+      "path": "assets/libs/basis/basis_transcoder.wasm",
+      "url": "https://www.igloo.inc/assets/libs/basis/basis_transcoder.wasm",
+      "bytes": 472914,
+      "sha256": "57edc886080bbcda30a399c9d56efed5813335c8ac968a6f9bb080826c1d099c"
+    },
+    {
+      "path": "assets/libs/draco/draco_decoder.wasm",
+      "url": "https://www.igloo.inc/assets/libs/draco/draco_decoder.wasm",
+      "bytes": 285948,
+      "sha256": "2516a4e43526d71787bf2f678f951329f7f858f8f15f42d4bc9e370b31a0da3a"
+    },
+    {
+      "path": "assets/libs/draco/draco_wasm_wrapper.js",
+      "url": "https://www.igloo.inc/assets/libs/draco/draco_wasm_wrapper.js",
+      "bytes": 58763,
+      "sha256": "e8049906ef3f8f75d3456c22a3f31bfdfe5b5b5bd09ccdec613b9e9a49d554d8"
+    },
+    {
+      "path": "assets/msdfworker-ac346fa7.js",
+      "url": "https://www.igloo.inc/assets/msdfworker-ac346fa7.js",
+      "bytes": 3175,
+      "sha256": "5b43e8239ef5bf35a8452f5c1d4384e58cd357d6aa57a6a6d421394b22004ad5"
+    }
+  ]
+}

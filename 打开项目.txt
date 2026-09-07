@@ -1,0 +1,8 @@
+﻿此压缩包包含完整项目代码、原站本地资源、独立 FORMA 人物实验和学习资料。
+未包含 node_modules，避免将 Linux 依赖带到 Windows。
+先解压整个文件夹，再安装 Node.js 22.12+，在文件夹内运行：
+npm install
+npm run dev
+浏览器打开终端显示的地址。
+无需安装即可查看：双击桌面上的 Igloo网站-可双击打开.html。
+原站部分是公开生产构建的本地学习复现，不是官方开源工程。详细来源见 reference/README.md。
