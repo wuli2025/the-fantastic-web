@@ -6,14 +6,16 @@
 
 | 文件 | 字节数 | 大小 |
 | --- | ---: | ---: |
-| [Igloo完整项目.zip](https://github.com/wuli2025/the-fantastic-web/releases/download/v1.0.0/Igloo%E5%AE%8C%E6%95%B4%E9%A1%B9%E7%9B%AE.zip) | 22,191,460 | 21.16 MiB |
-| [Igloo网页发布版.zip](https://github.com/wuli2025/the-fantastic-web/releases/download/v1.0.0/Igloo%E7%BD%91%E9%A1%B5%E5%8F%91%E5%B8%83%E7%89%88.zip) | 17,852,960 | 17.03 MiB |
+| [Igloo-full-project.zip](https://github.com/wuli2025/the-fantastic-web/releases/download/v1.0.0/Igloo-full-project.zip) | 22,191,460 | 21.16 MiB |
+| [Igloo-web-release.zip](https://github.com/wuli2025/the-fantastic-web/releases/download/v1.0.0/Igloo-web-release.zip) | 17,852,960 | 17.03 MiB |
+
+GitHub 会规范化中文附件名，因此下载文件使用英文名：`Igloo-full-project.zip` 对应原 `Igloo完整项目.zip`，`Igloo-web-release.zip` 对应原 `Igloo网页发布版.zip`。文件内容与内部中文目录均保持不变。
 
 这两个文件不是系统安装器，也没有附带 Node.js。想先看效果，使用网页发布版；想改代码，克隆本仓库或下载完整项目。GitHub 自动提供的 “Source code” 压缩包来自仓库标签，与上述原始附件不是同一份 ZIP。
 
 ## 网页发布版：不用 npm install
 
-1. 下载并完整解压 `Igloo网页发布版.zip`，保留所有目录。
+1. 下载并完整解压 `Igloo-web-release.zip`，保留所有目录。
 2. 本机需要 Node.js 18 或更新版本；它只是用来启动包内本地服务器。
 3. Windows 双击 `启动网站.cmd`，脚本运行 `node serve.mjs --open`。
 4. 浏览器通常打开 `http://127.0.0.1:5177/`，端口被占用时自动尝试后续端口，以终端打印地址为准。
@@ -54,15 +56,15 @@ node scripts/serve-static.mjs dist
 Release 同时提供 `SHA256SUMS.txt`，仓库中也有 [校验文件](../releases/SHA256SUMS.txt)。两个原包的 SHA-256：
 
 ```text
-ce13d82cd4c45f0aeca36617575cf8c97551c5df6f7a0a94b68eb4d1a29ee65e  Igloo完整项目.zip
-e7c431f4b280da60ae4f4c6ed6a3527662c7a4f602401b5e15f0f302b0c53319  Igloo网页发布版.zip
+ce13d82cd4c45f0aeca36617575cf8c97551c5df6f7a0a94b68eb4d1a29ee65e  Igloo-full-project.zip
+e7c431f4b280da60ae4f4c6ed6a3527662c7a4f602401b5e15f0f302b0c53319  Igloo-web-release.zip
 ```
 
 Windows PowerShell：
 
 ```powershell
-Get-FileHash '.\Igloo完整项目.zip' -Algorithm SHA256
-Get-FileHash '.\Igloo网页发布版.zip' -Algorithm SHA256
+Get-FileHash '.\Igloo-full-project.zip' -Algorithm SHA256
+Get-FileHash '.\Igloo-web-release.zip' -Algorithm SHA256
 ```
 
 Linux 在两个 ZIP 和校验文件所在目录执行 `sha256sum -c SHA256SUMS.txt`。macOS 可分别执行 `shasum -a 256 文件名`。
@@ -83,3 +85,5 @@ Linux 在两个 ZIP 和校验文件所在目录执行 `sha256sum -c SHA256SUMS.t
 仓库基于完整项目包展开，省略了第三方学习目录中的 `.claude/settings.local.json` 本地工具权限配置；原 ZIP 本身保持原样。新增 `docs/`、`releases/` 和仓库 README，修正了学习文档对采样分配方式及嵌套 Git 信息的描述。运行代码和原站资源保持与原包一致。
 
 `node_modules/`、`dist/`、测试产物、ZIP 和本地环境配置均不作为源码提交。压缩包通过 Releases 提供，避免重复计入 Git 历史。
+
+仓库通过 `.gitattributes` 保留原站生产资产的原始字节，避免 Windows Git 的换行转换改变资源校验值。

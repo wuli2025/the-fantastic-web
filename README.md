@@ -6,12 +6,18 @@
 
 > Igloo 部分使用原站公开生产构建，不是官方开源工程；原作者未压缩组件和建模工程不在包内。FORMA 有完整可读源码。资源来源与本地改动见 [reference/README.md](reference/README.md)。
 
+| Igloo 冰雪场景 | FORMA 人物粒子 |
+| --- | --- |
+| ![本地 Igloo 冰屋场景](docs/images/igloo.png) | ![本地 FORMA 宇航员粒子](docs/images/forma.png) |
+
+截图来自本地 Chromium 检查。
+
 ## 下载哪个包
 
 | 下载 | 大小 | 适合谁 | 打开方法 |
 | --- | --- | --- | --- |
-| [Igloo网页发布版.zip](https://github.com/wuli2025/the-fantastic-web/releases/download/v1.0.0/Igloo%E7%BD%91%E9%A1%B5%E5%8F%91%E5%B8%83%E7%89%88.zip) | 17.03 MiB | 想先体验网页 | 完整解压，安装 Node.js 18+，Windows 双击 `启动网站.cmd` |
-| [Igloo完整项目.zip](https://github.com/wuli2025/the-fantastic-web/releases/download/v1.0.0/Igloo%E5%AE%8C%E6%95%B4%E9%A1%B9%E7%9B%AE.zip) | 21.16 MiB | 想修改源码与研究效果 | 解压后执行 `npm install`、`npm run dev` |
+| [Igloo-web-release.zip](https://github.com/wuli2025/the-fantastic-web/releases/download/v1.0.0/Igloo-web-release.zip) | 17.03 MiB | 想先体验网页 | 完整解压，安装 Node.js 18+，Windows 双击 `启动网站.cmd` |
+| [Igloo-full-project.zip](https://github.com/wuli2025/the-fantastic-web/releases/download/v1.0.0/Igloo-full-project.zip) | 21.16 MiB | 想修改源码与研究效果 | 解压后执行 `npm install`、`npm run dev` |
 
 这是网站工程与静态发布包，不是 EXE 安装程序。两个 Release 附件按提供的原包上传；本次新增的中文文档和文档勘误在 GitHub 源码中。详细打开方式、校验值与部署限制见 [下载说明](docs/DOWNLOADS.zh-CN.md)。
 

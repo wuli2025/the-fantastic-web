@@ -1,0 +1,2 @@
+# Preserve production asset bytes and manifest hashes on Windows checkouts.
+/public/assets/** -text
